@@ -18,6 +18,34 @@ Aplicativo de controle de despesas pessoais para iPhone, Android e web (PWA). Ca
 - **Open Finance** pelo MeuPluggy, com as chaves de cada pessoa.
 - **Previsão e contas fixas**, painel com gráficos e tema claro e escuro.
 
+## Telas
+
+Capturas com uma conta de demonstração e dados fictícios.
+
+**Painel**
+
+![Painel: comparação entre meses e limite do mês](prints/01-painel-resumo.png)
+![Painel: objetivos, entradas e gastos, previsão e contas fixas](prints/02-painel-entradas-contas.png)
+![Painel: gastos por categoria, orçamento e últimas transações](prints/03-painel-categorias.png)
+
+**Gastos, entradas, objetivos e categorias**
+
+![Lista de gastos do mês](prints/04-gastos.png)
+![Entradas de dinheiro](prints/05-entradas.png)
+![Objetivos e reserva de emergência](prints/06-objetivos.png)
+![Categorias e orçamentos](prints/07-categorias.png)
+
+**No celular (PWA)**
+
+<p>
+<img src="prints/08-painel-celular.png" alt="Painel no celular" width="260">
+<img src="prints/09-gastos-celular.png" alt="Gastos no celular" width="260">
+</p>
+
+**Acesso**
+
+![Tela de acesso](prints/00-acesso.png)
+
 ## Privacidade e segurança
 
 - Isolamento por usuário em todas as tabelas, com políticas RLS no PostgreSQL.
